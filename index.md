@@ -2,9 +2,7 @@
 layout: single
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/Lupes3.png
+ image: /assets/images/Lupes3.png
 ---
 Hello, and thank you for visiting my website! Its purpose is to serve as an interface for those who are interested in learning about my research or collaboration. I've organized pages with:
 
