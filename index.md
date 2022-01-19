@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "Katie Dixon's home"
 author_profile: true
 header:
-  image: assets/Lupes.jpg
+  image: assets/images/Lupes.jpg
 ---
 Hello, and thank you for visiting my website! Its purpose is to serve as an interface for those who are interested in learning about my research or collaboration. I've organized pages with:
 
