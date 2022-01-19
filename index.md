@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 header:
-  image: /assets/images/Lupes.jpg
+  image: /assets/images/Lupes3.jpg
 ---
 Hello, and thank you for visiting my website! Its purpose is to serve as an interface for those who are interested in learning about my research or collaboration. I've organized pages with:
 
