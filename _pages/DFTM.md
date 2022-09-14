@@ -7,8 +7,12 @@ header:
 permalink: /research/host-pathogen-dynamics/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/DFTM.JPG" alt="">
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/Lupes3.png){: .align-right}
 
-My PhD thesis focuses on the mechanisms for virus coexistence in the Douglas fir tussock moth-baculovirus system. There are two virus morphotypes that are species specific to Douglas Fir tussock moth, which are characterized by different phenotypes and very low sequence homology. Across the Douglas fir tussock moth range, which is from the south western united states up to british columbia, the caterpillars experience varying host tree species and climates. There is also an interesting spatial pattern of the two morphotypes, where they coexistence appears to be high at intermediate latitudes and low at high and low latitudes. 
+Douglas fir tussock moth (Orgyia pseudotsugata) populations have severe outbreaks that are usually terminated by a species-specific virus (OpNPV). OpNPV has two morphotypes, the single-capsid (SNPV) and multi-capsid nucleopolyhedrovirus (MNPV), which are characterized by the way their genetic material is bundled within a protective protein coating (occlusion body). In some populations, the two pathogens coexist at small spatial scales, while in in others you find only one or the other. Across the Douglas fir tussock moth range, which is from the south western united states up to british columbia, the caterpillars experience varying host tree species and climates. 
 
-My research looks at how host tree species forest composition and differences in virus transmission may scale up to explain these large scale spatial patterns. I use transmission experiments done in the field to capture the realism of nature, in combination with mathematical models to answer these questions. I will expand these models to include how climate change may influence these patterns and the Douglas Fir tussock moth outbreaks in general. This work is done in collaboration with Carlos Polivka at the USDA Forestry Sciences Center in Wenatchee, WA.
+
+My PhD thesis focuses on the mechanisms for virus competition and coexistence in the tussock moth-baculovirus system, which include spatial variability, tradeoffs in fitness parameters, and evolution of host resistance.  I use transmission experiments done in the field to capture the realism of nature in combination with mathematical models to answer these questions. 
+
+Model parameterized with experimental data reproduces four key features of field observations. First, host and pathogen cycles with long period and large amplitude. Pathogen coexistence is found under broad range of conditions. Douglas fir forests are more likely to lead to dominance of MNPV morphotype. Finally, mixed forests are more likely than Douglas fir forests to allow for coexistence of MNPV and SNPV morphotypes.![image](https://user-images.githubusercontent.com/10964414/190276756-f5b95fd2-4c74-4c0e-abc3-ef585acd43b0.png)
+
