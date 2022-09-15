@@ -8,8 +8,8 @@ permalink: /research/host-pathogen-dynamics/
 ---
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DFTM_small.png" alt="">
-  <figcaption>Feels good to be right all the time.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Lupes3.png" alt="">
+  <figcaption>Hello World.</figcaption>
 </figure> 
 
 Douglas fir tussock moth (Orgyia pseudotsugata) populations have severe outbreaks that are usually terminated by a species-specific virus (OpNPV). OpNPV has two morphotypes, the single-capsid (SNPV) and multi-capsid nucleopolyhedrovirus (MNPV), which are characterized by the way their genetic material is bundled within a protective protein coating (occlusion body). The two morphotypes are phenotypically and genetically different. In classic disease theory, one morphotype will outcompete the other. However, in some populations, the two pathogens coexist at small spatial scales, while in in others you find only one or the other. 
