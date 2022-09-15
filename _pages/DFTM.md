@@ -7,7 +7,10 @@ header:
 permalink: /research/host-pathogen-dynamics/
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/DFTM_small.png){: .align-right}
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DFTM_small.png" alt="">
+  <figcaption>Feels good to be right all the time.</figcaption>
+</figure> 
 
 Douglas fir tussock moth (Orgyia pseudotsugata) populations have severe outbreaks that are usually terminated by a species-specific virus (OpNPV). OpNPV has two morphotypes, the single-capsid (SNPV) and multi-capsid nucleopolyhedrovirus (MNPV), which are characterized by the way their genetic material is bundled within a protective protein coating (occlusion body). In some populations, the two pathogens coexist at small spatial scales, while in in others you find only one or the other. Across the Douglas fir tussock moth range, which is from the south western united states up to british columbia, the caterpillars experience varying host tree species and climates. 
 
