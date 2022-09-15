@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: false
 header:
   image: "/assets/images/Lupes3.png"
