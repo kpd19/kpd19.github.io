@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 author_profile: false
 header:
   image: "assets/images/Baby SL.jpg"
@@ -8,7 +8,7 @@ permalink: /research/sealions/
 ---
 
 
-## Novel spatial structure in a two-species, one-pathogen system&#58;
+## Novel spatial structure in a two-species, one-pathogen system;
 
 Spatial structure is well known to have consequences on species interactions and disease dynamics. Using mathematical modeling on a hexagonal landscape, we examined how spatial structure influenced disease dynamics in the Galapagos sea lion population. The sea lions are exposed to semi-feral dogs on the island, which can bring novel diseases onto the island as they are brought in from Mainland Ecuador. 
 
@@ -16,7 +16,7 @@ This reasearch looks at what an introduction to canine distemper would look like
 
 This work was done with incredible support from [**Chris Moore**](http://mutualismecology.com) and [**Karen Abbott**](https://abbottlab480702554.wordpress.com/)!
 
-## Consequences of El Niño in the Galapagos sea lion- dystemper system&#58;
+## Consequences of El Niño in the Galapagos sea lion- dystemper system;
 
 For my masters thesis in the Abbott lab, I looked at how a climatic driver, the El Nino Southern Oscillation (ENSO) event and Canine Distemper Virus (CDV), interact to influence the endemic, endangered Galapagos sea lion population. I am using a combination of simulation modeling and parameter sensitivity analysis to predict what an epidemic would look like under conditions where the population is naive to the disease and where some proportion of the population has recovered from the disease and is immune. 
 
@@ -24,5 +24,5 @@ I am also analyzing how ENSO will affect different management strategies (e.g. v
 
 What I am interested in is how this dramatic event could interact with a CDV epidemic to influence the duration of the epidemic, overall mortality, and number of sea lions infected. There are several different ways this could turn out, depending on how the two events mesh with one another.
 
-## Population dynamics and El Niño in California sea lions&#58;
+## Population dynamics and El Niño in California sea lions
 
