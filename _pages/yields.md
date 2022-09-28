@@ -7,12 +7,7 @@ header:
 permalink: /research/crop-statistical-models/
 ---
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corn3.jpeg" alt="">
-  <figcaption>Hello World.</figcaption>
-</figure> 
-
-<figure><img src="/assets/images/corn3.jpeg"><figcaption>image caption</figcaption></figure>
+<figure style="width: 300px" class="align-right"><img src="/assets/images/corn3.jpeg"><figcaption>image caption</figcaption></figure>
 
 ![Corn](/assets/images/corn3.jpeg)
 
