@@ -1,14 +1,16 @@
 ---
 layout: splash
 author_profile: false
-header:
-  image: "assets/images/Baby SL.jpg"
-  caption: "*Galapagos Sea lion- San Cristobal, Galapagos*"
+  image: "/assets/images/Lupes3.png"
+  caption: "*Beehive Reservoir, Washington*"
 permalink: /research/sealions/
 ---
 
 
+
 ## Novel spatial structure in a two-species, one-pathogen system;
+
+<figure><img src="/assets/images/Baby SL.jpg" width="200" img align = "right"></figure>
 
 Spatial structure is well known to have consequences on species interactions and disease dynamics. Using mathematical modeling on a hexagonal landscape, we examined how spatial structure influenced disease dynamics in the Galapagos sea lion population. The sea lions are exposed to semi-feral dogs on the island, which can bring novel diseases onto the island as they are brought in from Mainland Ecuador. 
 
