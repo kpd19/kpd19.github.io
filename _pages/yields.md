@@ -4,7 +4,7 @@ author_profile: false
 header:
   image: "/assets/images/Lupes3.png"
   caption: "*Beehive Reservoir, Washington*"
-permalink: /research/host-pathogen-dynamics/
+permalink: /research/crop-statistical-models/
 ---
 
 <figure style="width: 300px" class="align-right">
