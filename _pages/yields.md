@@ -8,9 +8,11 @@ permalink: /research/crop-statistical-models/
 ---
 
 <figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Lupes3.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/corn3.jpeg" alt="">
   <figcaption>Hello World.</figcaption>
 </figure> 
+
+![Corn](/assets/corn3.jpeg)
 
 Crop yield responses under climate change are often projected using empirical models, which extrapolate historical yield-weather relationships to future conditions. However, it is unclear whether such historically trained empirical models  accurately capture crop biophysical processes and predict long-run climate change effects.
 
