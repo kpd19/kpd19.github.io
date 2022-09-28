@@ -6,8 +6,6 @@ author_profile: false
 permalink: /research/sealions/
 ---
 
-
-
 ## Novel spatial structure in a two-species, one-pathogen system;
 
 <figure><img src="/assets/images/Baby SL.jpg" width="350" img align = "right"></figure>
@@ -26,5 +24,4 @@ I am also analyzing how ENSO will affect different management strategies (e.g. v
 
 What I am interested in is how this dramatic event could interact with a CDV epidemic to influence the duration of the epidemic, overall mortality, and number of sea lions infected. There are several different ways this could turn out, depending on how the two events mesh with one another.
 
-## Population dynamics and El Niño in California sea lions
 
