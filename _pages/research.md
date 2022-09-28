@@ -19,7 +19,7 @@ feature_row:
     url: /research/sealions
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: "/assets/images/Baby SL.jpg"
+  - image_path: "/assets/images/corn3.jpeg"
     #title: 
     excerpt: "Crop modeling project"
     url: /research/crop-statistical-models/
