@@ -7,7 +7,7 @@ header:
 permalink: /research/crop-statistical-models/
 ---
 
-<figure style="width: 300px" class="align-right"><img src="/assets/images/corn3.jpeg"><figcaption>image caption</figcaption></figure>
+<figure class="align-right"><img src="/assets/images/corn3.jpeg" width="200"><figcaption>image caption</figcaption></figure>
 
 ![Corn](/assets/images/corn3.jpeg)
 
