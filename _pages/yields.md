@@ -11,7 +11,16 @@ permalink: /research/crop-statistical-models/
 
 Crop yield responses under climate change are often projected using empirical models, which extrapolate historical yield-weather relationships to future conditions. However, it is unclear whether such historically trained empirical models  accurately capture crop biophysical processes and predict long-run climate change effects.
 
+<p float="left">
+  <img src="/assets/images/corn3.jpeg" width="150" />
+</p>
+
+
 In this interdisciplinary project, we test this accuracy for commonly-used empirical crop models using simulated-data experiments. By leveraging yields simulated by process-based crop models, we train an empirical model on historical yield simulations and then evaluate whether the model can accurately emulate the simulated target yield responses under climate change scenarios.
+
+<figure>
+  <img src="/assets/images/corn3.jpeg" style="float:left;width:300px">
+</figure>
 
 We find that empirical models, despite a high goodness-of-fit within the historical climate, are overly sensitive to severe heat increases and consequently overproject target yield losses under high-warming scenarios by a factor of two. An empirical model trained not only on historical yields, but also on yields across all warming scenarios, accurately emulates the target yield response, indicating that projection bias in the empirical model is primarily due to the interannual yield-temperature relationship in the historical climate not matching the yield-temperature relationship across climate shifts.
 
