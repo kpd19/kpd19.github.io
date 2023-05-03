@@ -3,6 +3,8 @@ main:
     url: /posts/
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching-coding/
   - title: "Mental Health"
     url: /mentalhealth/
   - title: "About"
