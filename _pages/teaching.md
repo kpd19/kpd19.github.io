@@ -7,7 +7,7 @@ header:
 permalink: /research/teaching-coding/
 ---
 
-## Coding as a fundamental tool in the natural sciences
+## Teaching coding as a fundamental tool in the natural sciences
 
 <img align="right" width="33%" margin-left="20px" src="/assets/images/intro_2020.png">
 
