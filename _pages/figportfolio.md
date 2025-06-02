@@ -15,5 +15,5 @@ The viral subtypes information is a combination of extensive field collections o
 The pie charts are created by first spatially clustering locations across the distribution before calculating the proportion of insects that are infected by a specific type. 
 This figure was created by manipulating shapefiles and dataframes in R using the packages <code>sf</code>, <code>geodata</code>, <code>scatterpie</code>, and <code>tidyverse</code>.
 
-<img align="center" width="50%" src="/assets/images/morph_dist_map.png">
+<img align="center" width="75%" src="/assets/images/morph_dist_map.png">
 
