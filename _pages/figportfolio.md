@@ -4,7 +4,7 @@ author_profile: false
 header:
   image: "/assets/images/Lupes3.png"
   caption: "*Beehive Reservoir, Washington*"
-permalink: /portfolio
+permalink: /portfolio/
 ---
 
 ## Portfolio of a selection of figures I've created over the years of my research projects
