@@ -14,5 +14,5 @@ The *Abies* distribution is created by combining the distributions of all trees 
 The viral subtypes information is a combination of extensive field collections of virus collected caterpillars and historical data reported in the literature.
 The pie charts are created by first spatially clustering locations across the distribution before calculating the proportion of insects that are infected by a specific type. 
 
-<img align="center" width="50%" margin-left="20px" src="/assets/images/morph_dist_map.png">
+<img align="center" width="50%" src="/assets/images/morph_dist_map.png">
 
